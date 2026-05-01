@@ -1,4 +1,3 @@
-# Commented out IPython magic to ensure Python compatibility.
 # Import necessary libraries
 import numpy as np
 import pandas as pd
