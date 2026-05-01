@@ -1,6 +1,3 @@
-# sentiment-analysis-bert
-AI-powered sentiment analysis using BERT and machine learning
-
 # AI-Powered Sentiment Analysis using BERT
 
 ## Overview
