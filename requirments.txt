@@ -1,0 +1,9 @@
+pip install transformers
+numpy
+pandas
+scikit-learn
+torch
+transformers
+nltk
+matplotlib
+seaborn
