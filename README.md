@@ -66,7 +66,7 @@ The transformer-based features significantly improved classification performance
 
 ---
 
-## Business Impact (IMPORTANT)
+## Business Impact 
 This type of system can be applied in companies to:
 
 - Automatically analyze customer feedback
