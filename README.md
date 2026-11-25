@@ -5,16 +5,6 @@ This project implements an end-to-end Natural Language Processing (NLP) pipeline
 
 The system combines transformer-based embeddings with traditional machine learning models to achieve accurate and interpretable results.
 
----
-
-## Problem
-Understanding customer feedback at scale is a major challenge for companies, especially in industries where thousands of reviews are generated daily.
-
-Manual analysis is inefficient and does not scale.
-
----
-
-## Solution
 I built a sentiment analysis system that:
 
 - Processes raw text data (cleaning, normalization, tokenization)
@@ -63,13 +53,3 @@ I built a sentiment analysis system that:
 
 ## Results
 The transformer-based features significantly improved classification performance compared to baseline models.
-
----
-
-## Business Impact 
-This type of system can be applied in companies to:
-
-- Automatically analyze customer feedback
-- Detect dissatisfaction early
-- Improve customer experience
-- Support AI-driven customer service systems (chatbots, voicebots)
